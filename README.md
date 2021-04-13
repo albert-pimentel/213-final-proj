@@ -51,6 +51,6 @@ that a human would.
 We will build a platform that implements our algorithm and allows real users to find their k best
 matches. The testing group will be other students in NETS 213.
 
-<h2> Publish Interface (1): </h3>
+<h2> Publish Interface (1): </h2>
 Students from NETS 213 will use our project to find their best matches. We will collect feedback
 to see how real time users felt about their matches so that we can make further improvements.
