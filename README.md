@@ -1,4 +1,4 @@
-NETS213 Spring 2021 Final Project
+<h1>NETS213 Spring 2021 Final Project</h1>
 
 By Michael Arther, Ethan Chaffee, Joseph Laforgia, Kaya Panchalingam, Albert Pimentel
 
