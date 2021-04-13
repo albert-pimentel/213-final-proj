@@ -1,16 +1,6 @@
 NETS213 Spring 2021 Final Project
 
-
-Michael Arther
-
-Ethan Chaffee
-
-Joseph Laforgia
-
-Kaya Panchalingam
-
-Albert Pimentel
-
+By Michael Arther, Ethan Chaffee, Joseph Laforgia, Kaya Panchalingam, Albert Pimentel
 
 Overview:
 This project is a matchmaking algorithm. It utilizes crowdsourcing to create a gold standard. The
