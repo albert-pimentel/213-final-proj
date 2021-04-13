@@ -1,6 +1,5 @@
-<h1>NETS213 Spring 2021 Final Project
-Desert Island Matchmaking
-</h1>
+<h1>NETS213 Spring 2021 Final Project</h1>
+<h1>Desert Island Matchmaking</h1>
 
 <h2> By Michael Arther, Ethan Chaffee, Joseph Laforgia, Kaya Panchalingam, Albert Pimentel </h2>
 
