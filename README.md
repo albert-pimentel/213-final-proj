@@ -2,13 +2,13 @@
 
 <h2> By Michael Arther, Ethan Chaffee, Joseph Laforgia, Kaya Panchalingam, Albert Pimentel </h2>
 
-Overview:
+<h3> Overview:           </h3>
 This project is a matchmaking algorithm. It utilizes crowdsourcing to create a gold standard. The
 data is taken from OkCupid. There are nine components to this project exhibited in the figure
 above. For each description below, a value between 1 and 4 is assigned to each component
 denoting the complexity of implementing that part.
 
-HIT Design (3):
+ <h3> HIT Design (3):          </h3>
 The HIT will display two profiles. Profile 1 will remain constant and can be thought of as the
 person trying to be matched. Profile 2 will change. A Worker will be required to rate on a scale
 of 1 to 10 how good of a match Profile 2 is to Profile 1 based on various characteristics such as
