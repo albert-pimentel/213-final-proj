@@ -1,13 +1,3 @@
-<h1>NETS213 Spring 2021 Final Project</h1>
-
-<h2> By Michael Arther, Ethan Chaffee, Joseph Laforgia, Kaya Panchalingam, Albert Pimentel </h2>
-
-<h2> Overview: </h2>
-This project is a matchmaking algorithm. It utilizes crowdsourcing to create a gold standard. The
-data is taken from OkCupid. There are nine components to this project exhibited in the figure
-above. For each description below, a value between 1 and 4 is assigned to each component
-denoting the complexity of implementing that part.
-
 <h2> HIT Design (3): </h2>
 The HIT will display two profiles. Profile 1 will remain constant and can be thought of as the
 person trying to be matched. Profile 2 will change. A Worker will be required to rate on a scale
