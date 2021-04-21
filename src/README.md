@@ -1,1 +1,4 @@
-test
+
+This program performs quality control and aggregation on a csv file taken from the results of our HIT. 
+It begins by reading in the appropriate data. 
+The select_qualified_worker function takes in the raw data as a python DataFrame and returns a new version of the data where workers are labeled as qualified or unqualified. In our HIT design, we intend to include three negative quality control profiles which should be ranked as bad matches. In our instructions we will define a bad match as a ranking of 3 or less. These negative quality control profiles will be based on sexual orientation and whether two profiles match in this regard. For example, a profile of a straight man matched with the profile of a gay man would be a bad match and so should be ranked 3 or lower. For a worker to be considered qualified, he or she must accurately rank two out of these three control questions. The code in select_qualified_workers captures this logic and labels a worker qualified accordingly. 
