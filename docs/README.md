@@ -27,7 +27,7 @@ clusters, whose entries are similar to each other. This means that in either cas
 using similarity to match people. This will allow us to match a person with k other individuals
 who are a likely match.
 
-<h2> Training the Algorithm (1): </h2>
+<h2> Training the Algorithm (2): </h2>
 We utilize the OkCupid data set to train our model. It consists of about 60,000 profiles that
 describe characteristics such as sex, diet, level of education, etc. The algorithm will group the
 most similar profiles together which will be how matches are determined.
