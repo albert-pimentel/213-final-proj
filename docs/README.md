@@ -37,7 +37,7 @@ Utilizing the gold standard data that we crowdsourced from earlier, we will see 
 algorithm does matching people together. The goal is that it would suggest the same matches
 that a human would.
 
-<h2> Creating an Interface (3): </h2>
+<h2> Creating an Interface (1): </h2>
 We will build a platform that implements our algorithm and allows real users to find their k best
 matches. The testing group will be other students in NETS 213.
 
